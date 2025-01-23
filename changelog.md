@@ -37,6 +37,3 @@ Example Payload:
     }
 }
 ```
-
-![Fine-tuning Dashboard](images/finetuning-dashboard.png)
-Access fine-tuning UI at https://platform.openai.com/finetune
